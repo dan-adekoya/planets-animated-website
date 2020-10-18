@@ -1,3 +1,6 @@
+*{
+  font-family: "Roboto";
+}
 body {
   margin: 0;
   padding: 0;
@@ -62,7 +65,6 @@ section {
 }
 
 .text h1 {
-  font-family: "AlphaCentauri" !important;
   font-size: 5vw;
   color: #fff;
   letter-spacing: 20px;
@@ -212,7 +214,6 @@ section {
 
 .slide-number p {
   font-size: 40px;
-  font-family: "AlphaCentauri" !important;
   color: #fff;
   position: relative;
 }
